@@ -1,0 +1,21 @@
+.displayData {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.row {
+    display: flex;
+    width: 250px;
+    justify-content: space-between;
+    gap: 20px;
+    margin-bottom: 10px;
+    font-weight: 700;
+}
+
+.lastrow {
+    margin-bottom: 50px;
+}
